@@ -114,20 +114,3 @@ for (i = 0; i < directions.length; i++) {
 
 console.log(`${hoovX}  ${hoovY}`);
 console.log(patchesHoovered);
-
-
-
-
-//In order to obtain the solution, simply download it from the Github repository.
-//This is run on NodeJS so it should be downloaded on your machine as well prior to running this.
-//If you don't have it downloaded, go to this site and download it: https://nodejs.org/en/download/
-//I have also attached my input.txt file as well with an example of my own.
-
-//To run, simply type node hoovering.js
-
-/*Send us:
-
-The full source code, including any code written which is not part of the normal program run (scripts, tests)
-Clear instructions on how to obtain and run the program
-Please provide any deliverables and instructions using a public Github (or similar) Repository as several people will need to inspect the solution
-*/
